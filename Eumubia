@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="pt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Eumu – Provedor & Solutions</title>
+  <style>
+    body { margin:0; font-family: 'Segoe UI', Arial, sans-serif; color:#1f2933; background:#f5f3ef; }
+    header { background:linear-gradient(135deg,#0b0b0b,#1c1c1c); color:#d4af37; padding:80px 20px; text-align:center; }
+    header h1 { font-size:48px; margin-bottom:10px; letter-spacing:1px; }
+    header p { font-size:20px; color:#f5e7b2; }
+    nav { background:#000; padding:14px; text-align:center; }
+    nav a { color:#d4af37; margin:0 15px; text-decoration:none; font-weight:600; }
+    section { padding:80px 20px; max-width:1200px; margin:auto; }
+    h2 { color:#000; margin-bottom:30px; text-align:center; }
+    .services { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:30px; }
+    .card { background:#fff; padding:35px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.1); }
+    .card h3 { margin-top:0; color:#000; }
+    .cta { background:#000; color:#d4af37; text-align:center; padding:80px 20px; }
+    .cta a { background:#d4af37; color:#000; padding:16px 34px; border-radius:40px; text-decoration:none; font-weight:bold; }
+    footer { background:#0b0b0b; color:#bfae70; text-align:center; padding:25px; font-size:14px; }
+  </style>
+</head>
+<body><header>
+  <h1>EUMU</h1>
+  <p>Provedor & Solutions | Marketing, Importação e Gestão de Anúncios em Angola</p>
+</header><nav>
+  <a href="#servicos">Serviços</a>
+  <a href="#loja">Loja Online</a>
+  <a href="#sobre">Sobre</a>
+  <a href="#contacto">Contacto</a>
+</nav><section id="servicos">
+  <h2>Serviços Premium</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Marketing Digital Estratégico</h3>
+      <p>Posicionamos marcas em Angola no digital com estratégias focadas em vendas, autoridade e crescimento sustentável.</p>
+    </div>
+    <div class="card">
+      <h3>Gestão de Anúncios</h3>
+      <p>Anúncios profissionais no Facebook, Instagram e Google, otimizados para conversão e retorno sobre investimento.</p>
+    </div>
+    <div class="card">
+      <h3>Importação Profissional</h3>
+      <p>Soluções completas de importação para Angola, com foco em segurança, rapidez e produtos de alto valor.</p>
+    </div>
+  </div>
+</section><section id="loja">
+  <h2>Loja Online</h2>
+  <div class="services">
+    <div class="card">
+      <h3>Perfumes Premium</h3>
+      <p>Perfumes sofisticados e selecionados para clientes exigentes e revendedores em Angola.</p>
+    </div>
+    <div class="card">
+      <h3>Pastas Executivas</h3>
+      <p>Pastas de luxo e profissionais, ideais para empresários, gestores e estudantes universitários.</p>
+    </div>
+  </div>
+</section><section id="sobre">
+  <h2>Sobre a Eumu</h2>
+  <p>A <strong>Eumu – Provedor & Solutions</strong> atua em Angola oferecendo soluções modernas em marketing digital, gestão de anúncios e importação de produtos premium. O nosso foco é gerar resultados reais, aumentar vendas e fortalecer marcas.</p>
+</section><section id="contacto">
+  <h2>Contacto</h2>
+  <p>Email: delmiloya90@gmail.com</p>
+  <p>WhatsApp: +244 956 350 121</p>
+  <p>Chamada: +244 922 752 173</p>
+</section><div class="cta">
+  <h2>Transforme o seu negócio hoje</h2>
+  <p>Soluções premium pensadas para o mercado angolano</p>
+  <a href="#contacto">Fale Connosco</a>
+</div><footer>
+  <p>© 2026 EUMU – Provedor & Solutions | Angola</p>
+</footer></body>
+</html>
